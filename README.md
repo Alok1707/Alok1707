@@ -1,4 +1,9 @@
-### Hi there 👋
+### **Hi 👋 : Alok Kamble**
+
+An aspiring data scientist passionate about Data Science.
+![giphy](https://user-images.githubusercontent.com/93284814/156421626-accb1890-ba10-4497-8ca5-7bc529aa7bda.jpg)
+
+"The goal is simple.. turn data into information, and information into insight."
 
 <!--
 **Alok1707/Alok1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
